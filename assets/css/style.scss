@@ -2,6 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
+.inner {
+	width: 60%;
+	max-width: 1080px;
+}
+
 #nav_left {
 	position: absolute;
 	width: 14%;

@@ -1,5 +1,11 @@
 # Welcome
 
+## Travel
+
+* France
+* Norway
+* Japan
+
 ## Collections
 
 * [Miniatures](./Collections/Miniatures.md)
@@ -7,4 +13,8 @@
 
 ## Projects
 
-(empty)
+* 
+
+## Pictures
+
+* 

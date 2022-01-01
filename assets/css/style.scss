@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
+.page-header {
+    padding: 2rem 1rem;
+}
+
 .inner {
 	width: 60%;
 	max-width: 1080px;

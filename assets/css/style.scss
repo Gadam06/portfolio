@@ -15,6 +15,11 @@
 	max-width: 1080px;
 }
 
+a {
+    color: #6071e7;
+    text-decoration: none;
+}
+
 #nav_left {
 	position: absolute;
 	width: 14%;
@@ -34,7 +39,14 @@
 }
 
 #nav_left .current {
-	color: #6BD0BC;
+	color: #e760c1;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #5d51c2;
 }
 
 iframe {
